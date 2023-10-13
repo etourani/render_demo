@@ -13,6 +13,7 @@ df_syy = pd.read_csv('./filtered_syy_13e6to17e6.csv')
 df_ent = pd.read_csv('./filtered_ent_13e6to17e6.csv')
 
 app = dash.Dash(__name__)
+server = app.server
 
 app.layout = html.Div([
     html.Div([
