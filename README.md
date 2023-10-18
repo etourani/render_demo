@@ -1,9 +1,10 @@
 # render_demo
 try deploying dash app for a filtered PD data
 
-# `render_demo` Project Setup on Ubuntu
+# `render_demo` 
 
-First, ensure your system packages are up to date with:
+## Project Setup on Ubuntu
+
 ```bash
 sudo apt-get update
 sudo apt install git 
