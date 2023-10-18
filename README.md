@@ -7,7 +7,7 @@ First, ensure your system packages are up to date with:
 ```bash
 sudo apt-get update
 sudo apt-get upgrade
-```bash
+
 
 Setting Up and Running the "render_demo" Project
 Prerequisites
