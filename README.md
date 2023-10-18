@@ -1,5 +1,5 @@
 # render_demo
-try deploying dash app for a filtered PD data
+trying to deploy dash app for a filtered PD data
 
 # `render_demo` 
 
